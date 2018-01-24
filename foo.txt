@@ -1,1 +1,3 @@
 The Foo File
+
+Some added content.
