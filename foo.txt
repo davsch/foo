@@ -3,3 +3,5 @@ The Foo File
 Some added content.
 The feature 1 content!
 Some more content from Main branch.
+
+Added content in the feature 2 branch...
