@@ -1,3 +1,4 @@
 The Foo File
 
 Some added content.
+The feature 1 content!
